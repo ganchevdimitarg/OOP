@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d1496df0-a964-4c55-8c77-e1a0e8625cb3" />
+          <option name="name" value="diablo_database" />
+          <option name="urls">
+            <array>
+              <option value="file://$USER_HOME$/Desktop/diablo_database.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

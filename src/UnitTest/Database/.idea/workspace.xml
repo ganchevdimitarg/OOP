@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d1c6381-aa85-44b3-9c5a-554e1ee21cde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="758" />
+    <option name="y" value="9" />
+    <option name="width" value="537" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectId" id="1UTshN3AcB3y41xbLfaQp4f4r3Y" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554937369715" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.TireTest.alarmIsOnWhenPressureIsOutOfTime">
+    <configuration name="ListIteratorTest.moveShouldDoNotMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListIteratorTest" />
+      <option name="METHOD_NAME" value="moveShouldDoNotMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIteratorTest.moveShouldmoveCorrectlyToNextElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListIteratorTest" />
+      <option name="METHOD_NAME" value="moveShouldmoveCorrectlyToNextElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIteratorTest.shouldReturnFalseOnEmptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListIteratorTest" />
+      <option name="METHOD_NAME" value="shouldReturnFalseOnEmptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIteratorTest.shouldReturnTrueOnList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListIteratorTest" />
+      <option name="METHOD_NAME" value="shouldReturnTrueOnList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TireTest" />
+      <option name="METHOD_NAME" value="alarmIsOnWhenPressureIsOutOfTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TireTest.alarmIsOnWhenPressureIsOutOfTime" />
+        <item itemvalue="JUnit.ListIteratorTest.moveShouldDoNotMove" />
+        <item itemvalue="JUnit.ListIteratorTest.moveShouldmoveCorrectlyToNextElement" />
+        <item itemvalue="JUnit.ListIteratorTest.shouldReturnTrueOnList" />
+        <item itemvalue="JUnit.ListIteratorTest.shouldReturnFalseOnEmptyList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d1c6381-aa85-44b3-9c5a-554e1ee21cde" name="Default Changelist" comment="" />
+      <created>1554838027637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554838027637</updated>
+      <workItem from="1554838037832" duration="909000" />
+      <workItem from="1554913945955" duration="4859000" />
+      <workItem from="1555009311033" duration="366000" />
+      <workItem from="1555011100163" duration="184000" />
+      <workItem from="1575392038945" duration="166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ListIteratorTest_shouldReturnTrueOnList - 2019.04.10 at 20h 15m 37s.xml">
+      <configuration name="ListIteratorTest.shouldReturnTrueOnList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListIteratorTest_moveShouldmoveCorrectlyToNextElement - 2019.04.10 at 20h 19m 35s.xml">
+      <configuration name="ListIteratorTest.moveShouldmoveCorrectlyToNextElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListIteratorTest_moveShouldDoNotMove - 2019.04.10 at 20h 23m 30s.xml">
+      <configuration name="ListIteratorTest.moveShouldDoNotMove" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListIteratorTest_moveShouldDoNotMove - 2019.04.10 at 20h 23m 59s.xml">
+      <configuration name="ListIteratorTest.moveShouldDoNotMove" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TireTest_alarmIsOnWhenPressureIsOutOfTime - 2019.04.10 at 20h 34m 40s.xml">
+      <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TireTest_alarmIsOnWhenPressureIsOutOfTime - 2019.04.10 at 20h 34m 49s.xml">
+      <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TireTest_alarmIsOnWhenPressureIsOutOfTime - 2019.04.10 at 20h 34m 59s.xml">
+      <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TireTest_alarmIsOnWhenPressureIsOutOfTime - 2019.04.10 at 20h 39m 29s.xml">
+      <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TireTest_alarmIsOnWhenPressureIsOutOfTime - 2019.04.10 at 20h 39m 40s.xml">
+      <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TireTest_alarmIsOnWhenPressureIsOutOfTime - 2019.04.10 at 20h 39m 48s.xml">
+      <configuration name="TireTest.alarmIsOnWhenPressureIsOutOfTime" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21333334" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
